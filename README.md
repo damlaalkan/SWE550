@@ -28,3 +28,8 @@ Submit all your documents as a zip file. Include a README describing your test s
 3. run local host : http://localhost:9090/studio.html
 
 ![image](https://user-images.githubusercontent.com/28626390/230380036-7264c13a-7192-4da6-aac9-6e442089b119.png)
+
+4. Create new vertex: 
+
+![image](https://user-images.githubusercontent.com/28626390/230384814-3910b5d2-06b9-4274-816c-469485a2a5df.png)
+
