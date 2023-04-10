@@ -33,8 +33,11 @@ Submit all your documents as a zip file. Include a README describing your test s
 
 ![image](https://user-images.githubusercontent.com/28626390/230384814-3910b5d2-06b9-4274-816c-469485a2a5df.png)
 
-5. Create new edge : e + double click
+5. Create new edge : e + double click to start vertex then hold your left mouse and drive to through other vertex
 
 ![image](https://user-images.githubusercontent.com/28626390/230388180-6b9b0f38-5d22-4bf1-8980-919637270a7c.png)
 
+6. Finalize your design
+
+![image](https://user-images.githubusercontent.com/28626390/230879231-47ae2862-8e83-4d35-b22e-a3cc8ecb55b4.png)
 
